@@ -1,0 +1,16 @@
+[project]
+name = "openwebui-extensions"
+version = "0.1.0"
+description = "A collection of extensions for OpenWebUI"
+requires-python = ">=3.11"
+dependencies = [
+    "aiohttp>=3.11.8",
+    "google>=3.0.0",
+    "google-generativeai>=0.7.2",
+    "open-webui==0.5.0",
+    "pydantic>=2.9.2",
+    "structlog>=25.1.0",
+]
+
+[tool.setuptools]
+packages = ["prompts", "functions"]
