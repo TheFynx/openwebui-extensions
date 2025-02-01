@@ -7,7 +7,6 @@ A personal collection of extensions for [OpenWebUI](https://github.com/open-webu
 - **Functions**: Advanced model integrations and content processing:
   - Anthropic Integration: Enhanced Claude 3 API support
   - Google Gemini Integration: Complete Gemini model support
-  - Artifacts: Interactive HTML content visualization
 - **Tools**: Additional capabilities including:
   - Brave Search: Web and local search integration
   - GitHub Content: Repository and gist content fetching/searching
